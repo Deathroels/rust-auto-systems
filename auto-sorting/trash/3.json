@@ -69,15 +69,6 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "grenade.molotov"
-  },
-  {
-    "TargetCategory": null,
-    "MaxAmountInOutput": 0,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.muzzleboost"
   },
   {
@@ -107,7 +98,7 @@
     "BufferTransferRemaining": 0,
     "TargetItemName": "paddle"
   },
- {
+  {
     "TargetCategory": null,
     "MaxAmountInOutput": 0,
     "BufferAmount": 0,
