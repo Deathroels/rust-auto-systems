@@ -205,5 +205,14 @@
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "electric.digitalclock"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "mask.bandana"
   }
 ]
