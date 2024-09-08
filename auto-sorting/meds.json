@@ -37,15 +37,6 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 0,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
-    "TargetItemName": "aiming.module.mlrs"
-  },
-  {
-    "TargetCategory": null,
     "MaxAmountInOutput": 36,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
