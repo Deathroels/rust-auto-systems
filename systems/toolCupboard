@@ -19,7 +19,7 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 2000,
+    "MaxAmountInOutput": 3000,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
