@@ -9,15 +9,6 @@
     "TargetItemName": ""
   },
   {
-    "TargetCategory": 7,
-    "MaxAmountInOutput": 0,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
-    "TargetItemName": ""
-  },
-  {
     "TargetCategory": 9,
     "MaxAmountInOutput": 0,
     "BufferAmount": 0,
@@ -44,7 +35,7 @@
     "BufferTransferRemaining": 0,
     "TargetItemName": ""
   },
-{
+  {
     "TargetCategory": null,
     "MaxAmountInOutput": 0,
     "BufferAmount": 0,
@@ -62,7 +53,7 @@
     "BufferTransferRemaining": 0,
     "TargetItemName": "horse.armor.wood"
   },
-{
+  {
     "TargetCategory": null,
     "MaxAmountInOutput": 0,
     "BufferAmount": 0,
