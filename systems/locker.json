@@ -61,5 +61,14 @@
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "smg.thompson"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "nightvisiongoggles"
   }
 ]
