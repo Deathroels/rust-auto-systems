@@ -15,15 +15,6 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "jacket"
-  },
-  {
-    "TargetCategory": null,
-    "MaxAmountInOutput": 1,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "hoodie"
   },
   {
@@ -64,7 +55,7 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 6,
+    "MaxAmountInOutput": 4,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
@@ -97,5 +88,14 @@
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "barricade.wood.cover"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "metal.plate.torso"
   }
 ]
