@@ -6,7 +6,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "arrow.fire"
+    "TargetItemName": "grenade.flashbang"
   },
   {
     "TargetCategory": null,
@@ -15,7 +15,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "arrow.hv"
+    "TargetItemName": "bow.hunting"
   },
   {
     "TargetCategory": null,
@@ -24,7 +24,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "ammo.nailgun.nails"
+    "TargetItemName": "longsword"
   },
   {
     "TargetCategory": null,
@@ -33,7 +33,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "ammo.rocket.sam"
+    "TargetItemName": "mace"
   },
   {
     "TargetCategory": null,
@@ -42,7 +42,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "submarine.torpedo.straight"
+    "TargetItemName": "machete"
   },
   {
     "TargetCategory": null,
@@ -51,7 +51,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "arrow.wooden"
+    "TargetItemName": "military flamethrower"
   },
   {
     "TargetCategory": null,
@@ -60,7 +60,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "vehicle.1mod.cockpit.armored"
+    "TargetItemName": "pistol.nailgun"
   },
   {
     "TargetCategory": null,
@@ -69,7 +69,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "vehicle.1mod.passengers.armored"
+    "TargetItemName": "paddle"
   },
   {
     "TargetCategory": null,
@@ -78,7 +78,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "vehicle.2mod.camper"
+    "TargetItemName": "gloweyes"
   },
   {
     "TargetCategory": null,
@@ -87,7 +87,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "vehicle.1mod.cockpit"
+    "TargetItemName": "twitch.headset"
   },
   {
     "TargetCategory": null,
@@ -96,7 +96,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "vehicle.1mod.cockpit.with.engine"
+    "TargetItemName": "attire.hide.vest"
   },
   {
     "TargetCategory": null,
@@ -105,7 +105,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "vehicle.1mod.flatbed"
+    "TargetItemName": "attire.hide.pants"
   },
   {
     "TargetCategory": null,
@@ -114,7 +114,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "vehicle.2mod.fuel.tank"
+    "TargetItemName": "attire.hide.boots"
   },
   {
     "TargetCategory": null,
@@ -123,7 +123,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "carburetor3"
+    "TargetItemName": "attire.hide.poncho"
   },
   {
     "TargetCategory": null,
@@ -132,7 +132,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "carburetor2"
+    "TargetItemName": "attire.hide.skirt"
   },
   {
     "TargetCategory": null,
@@ -141,7 +141,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "carburetor1"
+    "TargetItemName": "attire.hide.helterneck"
   },
   {
     "TargetCategory": null,
@@ -150,7 +150,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "crankshaft3"
+    "TargetItemName": "horse.shoes.advanced"
   },
   {
     "TargetCategory": null,
@@ -159,7 +159,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "crankshaft2"
+    "TargetItemName": "horse.saddlebag"
   },
   {
     "TargetCategory": null,
@@ -168,7 +168,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "crankshaft1"
+    "TargetItemName": "mask.balaclava"
   },
   {
     "TargetCategory": null,
@@ -177,7 +177,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "piston3"
+    "TargetItemName": "hat.miner"
   },
   {
     "TargetCategory": null,
@@ -186,7 +186,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "piston2"
+    "TargetItemName": "tincan.alarm"
   },
   {
     "TargetCategory": null,
@@ -195,7 +195,7 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "electric.digitalclock"
+    "TargetItemName": "grenade.bee"
   },
   {
     "TargetCategory": null,
@@ -204,15 +204,6 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "mask.bandana"
-  },
-  {
-    "TargetCategory": null,
-    "MaxAmountInOutput": 0,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
-    "TargetItemName": "handcuffs"
+    "TargetItemName": "honeycomb"
   }
 ]
