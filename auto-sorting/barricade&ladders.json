@@ -7,5 +7,14 @@
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "barricade.wood.cover"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "ladder.wooden.wall"
   }
 ]
