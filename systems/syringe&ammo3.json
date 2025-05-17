@@ -3,7 +3,7 @@
     "TargetCategory": null,
     "MaxAmountInOutput": 256,
     "BufferAmount": 0,
-    "MinAmountInInput": 0,
+    "MinAmountInInput": 1,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "ammo.rifle"
@@ -12,7 +12,7 @@
     "TargetCategory": null,
     "MaxAmountInOutput": 256,
     "BufferAmount": 0,
-    "MinAmountInInput": 0,
+    "MinAmountInInput": 1,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "ammo.pistol"
