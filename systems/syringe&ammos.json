@@ -1,7 +1,7 @@
 [
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 30,
+    "MaxAmountInOutput": 45,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
@@ -10,7 +10,7 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 20,
+    "MaxAmountInOutput": 30,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
@@ -19,11 +19,20 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 20,
+    "MaxAmountInOutput": 30,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "metal.fragments"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 15,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "gunpowder"
   }
 ]
