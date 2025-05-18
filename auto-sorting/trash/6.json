@@ -107,7 +107,7 @@
     "BufferTransferRemaining": 0,
     "TargetItemName": "arrow.bone"
   },
- {
+  {
     "TargetCategory": null,
     "MaxAmountInOutput": 0,
     "BufferAmount": 0,
@@ -214,5 +214,59 @@
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "vehicle.1mod.taxi"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "wall.frame.shopfront.metal"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "shutter.metal.embrasure.b"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "wall.window.bars.metal"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "mining.quarry"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "wall.frame.netting"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "wall.frame.cell.gate"
   }
 ]
