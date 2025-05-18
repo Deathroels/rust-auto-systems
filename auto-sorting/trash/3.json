@@ -196,5 +196,77 @@
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "grenade.bee"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "door.double.hinged.toptier"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "barricade.woodwire"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "beehive"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "building.planner"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "wall.frame.fence"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "wall.frame.fence.gate"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "lock.code"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "barricade.concrete"
   }
 ]
