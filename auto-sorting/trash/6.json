@@ -33,15 +33,6 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
-    "TargetItemName": "hammer"
-  },
-  {
-    "TargetCategory": null,
-    "MaxAmountInOutput": 0,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "fishingrod.handmade"
   },
   {
@@ -268,5 +259,14 @@
     "IsBlueprint": false,
     "BufferTransferRemaining": 0,
     "TargetItemName": "wall.frame.cell.gate"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "BufferTransferRemaining": 0,
+    "TargetItemName": "barricade.concrete"
   }
 ]
