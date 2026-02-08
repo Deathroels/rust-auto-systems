@@ -1,38 +1,34 @@
 [
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 15000,
+    "MaxAmountInOutput": 12000,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "metal.fragments"
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 200,
+    "MaxAmountInOutput": 10000,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
-    "TargetItemName": "metal.refined"
+    "TargetItemName": "stones"
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 3000,
+    "MaxAmountInOutput": 1000,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "wood"
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 4000,
+    "MaxAmountInOutput": 100,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
-    "TargetItemName": "stones"
+    "TargetItemName": "metal.refined"
   }
 ]
