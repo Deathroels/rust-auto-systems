@@ -5,7 +5,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "hazmatsuit"
   },
   {
@@ -14,7 +13,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "syringe.medical"
   },
   {
@@ -23,7 +21,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "ammo.pistol"
   },
   {
@@ -32,7 +29,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "cloth"
   },
   {
@@ -41,7 +37,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "ammo.rifle"
   },
   {
@@ -50,7 +45,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "rifle.semiauto"
   },
   {
@@ -59,7 +53,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "smg.thompson"
   },
   {
@@ -68,7 +61,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "nightvisiongoggles"
   },
   {
@@ -77,7 +69,14 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "ladder.wooden.wall"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "largebackpack"
   }
 ]
