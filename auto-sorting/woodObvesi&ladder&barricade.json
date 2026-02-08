@@ -5,7 +5,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.small.scope"
   },
   {
@@ -14,7 +13,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.8x.scope"
   },
   {
@@ -23,7 +21,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.extendedmags"
   },
   {
@@ -32,7 +29,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.holosight"
   },
   {
@@ -41,7 +37,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.muzzleboost"
   },
   {
@@ -50,7 +45,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.muzzlebrake"
   },
   {
@@ -59,7 +53,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.silencer"
   },
   {
@@ -68,7 +61,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.simplesight"
   },
   {
@@ -77,7 +69,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.flashlight"
   },
   {
@@ -86,7 +77,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.lasersight"
   },
   {
@@ -95,7 +85,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.burstmodule"
   },
   {
@@ -104,7 +93,22 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "weapon.mod.gascompressionovedrive"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "barricade.wood.cover"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "ladder.wooden.wall"
   }
 ]
