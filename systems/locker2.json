@@ -5,7 +5,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "metal.facemask"
   },
   {
@@ -14,7 +13,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "hoodie"
   },
   {
@@ -23,7 +21,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "pants"
   },
   {
@@ -32,7 +29,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "shoes.boots"
   },
   {
@@ -41,7 +37,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "roadsign.kilt"
   },
   {
@@ -50,7 +45,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "rifle.ak"
   },
   {
@@ -59,7 +53,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "syringe.medical"
   },
   {
@@ -68,16 +61,14 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "ammo.rifle"
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 32,
+    "MaxAmountInOutput": 76,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "cloth"
   },
   {
@@ -86,7 +77,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "barricade.wood.cover"
   },
   {
@@ -95,7 +85,6 @@
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
-    "BufferTransferRemaining": 0,
     "TargetItemName": "metal.plate.torso"
   }
 ]
